@@ -3,3 +3,4 @@ it's a new file
 
 
 It's new for everyone!
+The purpose of creating the file is to practice git skills!
